@@ -2,6 +2,7 @@
 
 ## Repository
 <Link to your project's public GitHub respository>
+https://github.com/olaguejj/Final-Project-for-ANGM-2305.0W1.git
 
 ## Description
 I am planning to create a landscape using small points or squares. These points will appear similarly to the animation from the previous lab, 
@@ -10,6 +11,10 @@ to form a complete landscape image. Once the image is fully assembled, it will r
 back down and disappear, ending the animation.
 
 I want the landscape to look something like this :
+
+
+
+
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/db515894-4b7d-426c-b6fd-43c8495c53c7" />
 
 
